@@ -1,0 +1,30 @@
+{
+  "name": "given-when-then.js",
+  "version": "1.0.0",
+  "description": "A tiny wrapper of promises to make tests more behavior-driven.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emperoroficecream/given-when-then.js.git"
+  },
+  "keywords": [
+    "bdd",
+    "promise",
+    "given",
+    "when",
+    "then"
+  ],
+  "author": "Kat Zhang <arcadychang@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emperoroficecream/given-when-then.js/issues"
+  },
+  "homepage": "https://github.com/emperoroficecream/given-when-then.js#readme",
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
+}
